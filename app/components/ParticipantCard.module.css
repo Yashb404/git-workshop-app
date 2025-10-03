@@ -1,0 +1,42 @@
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.2s;
+  border: 1px solid #ddd;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 3px solid #0070f3;
+  object-fit: cover;
+}
+
+.card h3 {
+  margin: 15px 0 10px;
+  font-size: 1.25rem;
+}
+
+.card p {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 15px;
+  min-height: 40px; 
+}
+
+.link {
+  text-decoration: none;
+  color: #0070f3;
+  font-weight: bold;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
