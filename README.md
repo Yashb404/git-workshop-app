@@ -49,7 +49,7 @@ bio: "Workshop organizer and tech enthusiast\!",
 },
 // Add your object below this line, following the same format.
 {
-name: "Yash Sharma", // Your full name
+name: "Yash", // Your full name
 github: "Yashb404", // Your GitHub username
 bio: "A student developer interested in web technologies\!", // A short bio
 }, // Make sure the previous person's object has a comma after it\!
